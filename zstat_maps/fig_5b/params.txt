@@ -1,0 +1,13 @@
+[];
+params["fullScreenPadding"] = false;
+params["kioskMode"] = true;
+params["encodedImages"] = ["MNI152_T1_2mm","zstat"];
+params["expandable"] = true;
+params ["showControlBar"] = true; 
+params["zstat"] = {"min": 0, "max": 7.8, "lut": "Red Overlay"};
+params["allowScroll"] = true;
+params["showOrientation"] = true;
+params["radiological"] = true;
+params["smoothDisplay"] = false;
+params["showImageButtons"] = true;
+params["worldSpace"] = true

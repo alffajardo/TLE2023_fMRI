@@ -1,0 +1,14 @@
+[];
+params["encodedImages"] = ["MNI152_T1_2mm","fc_template_thr"];
+params["fullScreenPadding"] = false;
+params["fc_template_thr"] = {"parametric": true,  "lut": "Red Overlay", 
+"negative_lut": "Blue Overlay" };
+params["kioskMode"] = true;
+params["expandable"] = true;
+params ["showControlBar"] = true; 
+params["allowScroll"] = true;
+params["showOrientation"] = true;
+params["radiological"] = true;
+params["smoothDisplay"] = false;
+params["showImageButtons"] = true;
+params["worldSpace"] = true
