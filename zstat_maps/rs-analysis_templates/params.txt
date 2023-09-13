@@ -1,8 +1,10 @@
 [];
-params["encodedImages"] = ["MNI152_T1_2mm","fc_template_thr"];
+params["encodedImages"] = ["MNI152_T1_2mm","fc_template_thr","all_rois_4mm_lm"];
 params["fullScreenPadding"] = false;
 params["fc_template_thr"] = {"parametric": true,  "lut": "Red Overlay", 
-"negative_lut": "Blue Overlay" };
+"negative_lut": "Blue Overlay","alpha": 0.65,"symetric":true };
+params["MNI152_T1_2mm"] = { lut: "Grayscale", "min": 2000,"max":9000 };
+params["all_rois_4mm_lm"] = {"lut": "Green Overlay", "min": 0, "max": 20 };
 params["kioskMode"] = true;
 params["expandable"] = true;
 params ["showControlBar"] = true; 
