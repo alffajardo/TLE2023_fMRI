@@ -22,7 +22,7 @@ We provide interactive visualizations for the figures in [Fajardo-Valdez & Camac
 
 [DMN-TPN template](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/rs-analysis_templates/fc_template_thr.html)
 
-
+<p>To learn how to code for free, please visit <a href="https://www.freecodecamp.org/learn" target="_blank">freeCodeCamp.org</a></p>
 
 ## Sternberg Task-fMRI analysis
 
