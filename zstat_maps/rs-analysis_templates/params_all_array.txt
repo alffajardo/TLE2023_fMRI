@@ -1,0 +1,16 @@
+[];
+params["encodedImages"] = ["all_array"];
+params["smoothdisplay"] = false;
+params["luts"] = [{"name": "red-blue", "data":[[0, 0, 0, 1], [.5, 1,1, 1], [1, 1, 0, 0]]}];
+params["all_array"] = {"lut": "red-blue", "min": -1, "max" : 1, symmetric:true }
+params["fullScreenPadding"] = false;
+params["kioskMode"] = true;
+params["fullScreen"] = true; 
+params["expandable"] = true;
+params ["showControlBar"] = true; 
+params["allowScroll"] = true;
+params["showOrientation"] = false;
+params["radiological"] = false;
+params["smoothDisplay"] = false;
+params["showImageButtons"] = true;
+params["worldSpace"] = true
