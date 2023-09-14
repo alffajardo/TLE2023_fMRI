@@ -3,6 +3,7 @@ params["encodedImages"] = ["all_array"];
 params["smoothdisplay"] = false;
 params["luts"] = [{"name": "red-blue", "data":[[0, 0, 0, 1], [.5, 1,1, 1], [1, 1, 0, 0]]}];
 params["all_array"] = {"lut": "red-blue", "min": -1, "max" : 1, symmetric:true }
+params["coordinate"] = [0,0,-23];
 params["fullScreenPadding"] = false;
 params["kioskMode"] = true;
 params["fullScreen"] = true; 
