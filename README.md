@@ -24,5 +24,5 @@ Interactive Visualizations
 
 ## Sternberg Task-fMRI analysis
 
-
 Fig 5c: [Retention phase Zstat map](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/fig_5b/zstat1.html)
+Fig 6A: [Retention phase - Cognition Associated regions](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/fig6A/sum_cors.html)
