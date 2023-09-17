@@ -16,6 +16,7 @@ Interactive Visualizations
 ## Main Figures
 
 ### <u>RS-fMRI functional connectivity analysis</u>
+
 [DMN-TPN template](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/rs-analysis_templates/fc_template_thr.html)
 
 [Functional Connectivity Matrices](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/rs-analysis_templates/fc_matrices.html)
@@ -23,6 +24,8 @@ Interactive Visualizations
 ---
 
 ### Sternberg Task-fMRI analysis
+
+![](zstat_maps/figS6_colorbar.png)
 
 Fig 5C: [Retention Phase Zstat map](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/fig5C/zstat1.html)
 
