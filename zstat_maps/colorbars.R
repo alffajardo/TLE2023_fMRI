@@ -14,11 +14,15 @@ barplot(rep(1,1000), col = red_yellow(1000),border = red_yellow(1000),
         axes = F, main ="Zstat 1 (Sternberg Task Activation)",
          cex.main = 3)
 
-red_blue <- colorRampPalette(colors = c("red","white","blue"))
+red_blue <- colorRampPalette(colors = c("blue","white","red"))
 
+par(bg = "black",col.main = "white")
 barplot(rep(1,1000), col = red_blue(1000),border = red_blue(1000),
-        axes = F, main ="Zstat 1 (Sternberg Task Activation)",
-        cex.main = 3)
+        axes = F, main ="Pearson Coefficient",
+        cex.main = 2,xpd = T,args.legend = )
+text(x = 0,-0.2,"-1.0",col = "white" ,xpd = NA, cex =1.5)
+text(x = 600,-0.2,"0.0",col = "white" ,xpd = NA, cex =1.5)
+text(x = 1200,-0.2,"1.0",col = "white" ,xpd = NA, cex =1.5)
 ## plot the figure
 png("figS6_colorbar.png",width = 333,height = 205,units = "px")
 
