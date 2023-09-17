@@ -26,8 +26,8 @@ par(mfrow = c(3,1),bg ="black",
     col.main = "white",mar = c(2,2,3,2))
 
 barplot(rep(1,1000), col = red_yellow(1000),border = red_yellow(1000),
-        axes = F, main ="Zstat 1 (Sternberg Task Activation)",
-        cex.main = 1)
+        axes = F, main ="Zstat 1",
+        cex.main = 2)
 barplot(rep(1,1000), col = plasma(1000),border = plasma(1000),
        axes = F, main ="GLM", cex.main = 2)
 
