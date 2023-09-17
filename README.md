@@ -34,6 +34,16 @@ Fig 6B: [Retention Phase - ANCOVA Cognition Associated regions ](https://htmlpre
 
 ## Supplementary Figures
 
+Fig 6S.a - GLM Cognition Associated maps: [AMI](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/figS6_glm/AMI.html) |
+                                        [DMI](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/figS6_glm/DMI.html) |
+                                        [IMI](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/figS6_glm/IMI.html) |
+                                        [PR](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/figS6_glm/PR.html) |
+                                        [PS](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/figS6_glm/PS.html) |
+                                        [VCI](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/figS6_glm/VCI.html) |
+                                        [VMI](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/figS6_glm/VMI.html) |
+                                        [VWMI](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/figS6_glm/VWMI.html) |
+                                        [VMI](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/figS6_glm/WMI.html) 
 
-
+                                        
+                                        
 
