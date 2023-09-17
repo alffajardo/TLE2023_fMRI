@@ -31,11 +31,8 @@ Fig 6A: [Retention Phase - GLM Cognition Associated regions](https://htmlpreview
 
 Fig 6B: [Retention Phase - ANCOVA Cognition Associated regions ](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/fig6B/sum_ancovas.html)
 
-<div align="center">
-
 <img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/figS6_colorbar.png" width="300" height="200" />
 
-</div>
 
 ---
 
