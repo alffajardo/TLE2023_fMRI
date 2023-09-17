@@ -16,7 +16,7 @@ barplot(rep(1,1000), col = red_yellow(1000),border = red_yellow(1000),
 
 
 ## plot the figure
-png("figS6_colorbar.png",width = 666,height = 410,units = "px")
+png("figS6_colorbar.png",width = 333,height = 205,units = "px")
 
 par(mfrow = c(3,1),bg ="black",
     col.main = "white",mar = c(1.5,1.5,1.5,1.5))
