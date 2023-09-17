@@ -23,12 +23,12 @@ par(mfrow = c(3,1),bg ="black",
 
 barplot(rep(1,1000), col = red_yellow(1000),border = red_yellow(1000),
         axes = F, main ="Zstat 1 (Sternberg Task Activation)",
-        cex.main = 2)
+        cex.main = 1.5)
 barplot(rep(1,1000), col = plasma(1000),border = plasma(1000),
-       axes = F, main ="GLM", cex.main = 2)
+       axes = F, main ="GLM", cex.main = 1.5)
 
 barplot(rep(1,1000), col = mako(1000),border = mako(1000),
-        axes = F, main = "ANCOVA", cex.main = 2)
+        axes = F, main = "ANCOVA", cex.main = 1.5)
 dev.off()
 
 
