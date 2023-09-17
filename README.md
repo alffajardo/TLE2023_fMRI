@@ -25,7 +25,11 @@ Interactive Visualizations
 
 ### Sternberg Task-fMRI analysis
 
-![](zstat_maps/figS6_colorbar.png)
+<div align="center">
+
+<img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/figS6_colorbar.png" width="300" height="200" />
+
+</div>
 
 Fig 5C: [Retention Phase Zstat map](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/fig5C/zstat1.html)
 
