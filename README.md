@@ -21,7 +21,7 @@ Interactive Visualizations
 
 [Functional Connectivity Matrices](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/rs-analysis_templates/fc_matrices.html)
 
-<img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/blue_red_colormap.png" width="300" height="150" />
+<img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/blue_red_colormap.png" width="300" height="120" />
 
 ---
 
