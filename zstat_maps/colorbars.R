@@ -23,16 +23,16 @@ barplot(rep(1,1000), col = red_blue(1000),border = red_blue(1000),
 png("figS6_colorbar.png",width = 333,height = 205,units = "px")
 
 par(mfrow = c(3,1),bg ="black",
-    col.main = "white",mar = c(2,2,2,2))
+    col.main = "white",mar = c(2,2,3,2))
 
 barplot(rep(1,1000), col = red_yellow(1000),border = red_yellow(1000),
         axes = F, main ="Zstat 1 (Sternberg Task Activation)",
         cex.main = 1)
 barplot(rep(1,1000), col = plasma(1000),border = plasma(1000),
-       axes = F, main ="GLM", cex.main = 1)
+       axes = F, main ="GLM", cex.main = 2)
 
 barplot(rep(1,1000), col = mako(1000),border = mako(1000),
-        axes = F, main = "ANCOVA", cex.main = 1)
+        axes = F, main = "ANCOVA", cex.main = 2)
 dev.off()
 
 
