@@ -1,0 +1,11 @@
+[];
+params["encodedImages"] = ["MNI152_T1_2mm","sum_cors"];
+params["sum_cors"] = { "lut": "Fire", "min":0, "max": 7 };
+params["kioskMode"] = true;
+params["expandable"] = true;
+params ["showControlBar"] = true; 
+params["allowScroll"] = true;
+params["showOrientation"] = true;
+params["radiological"] = true;
+params["smoothDisplay"] = false;
+params["showImageButtons"] = true

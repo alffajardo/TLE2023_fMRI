@@ -1,12 +1,14 @@
 [];
-params["encodedImages"] = ["MNI152_T1_2mm","fc_template_thr","all_rois_4mm_lm"];
-params["fullScreenPadding"] = false;
+params["encodedImages"] = ["MNI152_T1_2mm","positive_fc","negative_fc","all_rois_4mm_lm"];
 params["luts"] = [{"name": "Cyan", "data":[[0, 0, 0.545, 0.547],[1, 0, 0.545, 0.545]]}];
-params["fc_template_thr"] = {"parametric": true,  "lut": "Red Overlay", 
-"negative_lut": "Blue Overlay","symetric":true };
-params["MNI152_T1_2mm"] = { lut: "Grayscale", "min": 2000,"max":9000 };
-params["all_rois_4mm_lm"] = {"lut": "Cyan", "min": 0, "max": 21 };
-params["kioskMode"] = true;
+params["luts"] = [{"name": "white-red", "data":[[0, 1, 1, 1],[1,1,0,0]]}];
+params["luts"] = [{"name": "white-blue", "data":[[0, 1, 1, 1],[1,0,0,1]]}];
+params["fullScreen"] = false;
+params["positive_fc"] = { lut": "white-red" "min": 0.25, "max": 1};
+params["negative_fc"] = { lut": "white-blue" "min": 0.25, "max": 0.45};
+params["MNI152_T1_2mm"] = { "lut": "Grayscale", "min": 2000,"max":8000 };
+params["all_rois_4mm_lm"] = {"lut": "Cyan", "min": 0, "max": 1 };
+params["kioskMode"] = false;
 params["expandable"] = true;
 params ["showControlBar"] = true; 
 params["allowScroll"] = true;
