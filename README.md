@@ -50,6 +50,11 @@ In this Section, we provide interactive visualization of our results in MNI152 S
 [Ipsilateral Insula](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/fig6C/one_sample_stats/I_INS.html) | 
 [Contralateral Insula](https://htmlpreview.github.io/?https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/one_sample_stats/C_INS.html)
 
+<div align="center">
+  <img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/art_brain.png" width="400" height="380" />
+                                        
+</div>
+
 ---
 ## Supplementary Figures
 
@@ -62,9 +67,3 @@ Fig 6S.a - GLM & ANCOVA Cognition Associated maps: [AMI](https://htmlpreview.git
                                         [VMI](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/figS6_glm/VMI.html) |
                                         [VWMI](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/figS6_glm/VWMI.html) |
                                         [VMI](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/figS6_glm/WMI.html) 
-
-
-<div align="center">
-  <img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/art_brain.png" width="400" height="380" />
-                                        
-</div>
