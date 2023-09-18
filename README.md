@@ -1,9 +1,11 @@
 
 <div align="center">
-  
-  ![](https://www.roadtrafficsigns.com/img/lg/K/Under-Construction-Sign-K-7181.gif)
 
+  <img src="https://www.roadtrafficsigns.com/img/lg/K/Under-Construction-Sign-K-7181.gif" width="250" height="250" />
 </div>
+
+ <br> 
+ <br> 
 
 **Description:** 
 
@@ -11,7 +13,7 @@ Repository to share code used in  [Fajardo-Valdez & Camacho-Tellez et al. (2022)
 
 # Zstats maps and volumes
 
-Interactive Visualizations 
+In this Section, we provide interactive visualizations of our results in MNI152 Space
 
 ## Main Figures
 
@@ -61,6 +63,8 @@ Fig 6S.a - GLM & ANCOVA Cognition Associated maps: [AMI](https://htmlpreview.git
                                         [VWMI](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/figS6_glm/VWMI.html) |
                                         [VMI](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/figS6_glm/WMI.html) 
 
-                                        
-                                        
 
+<div align="center">
+  <img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/art_brain.png" width="400" height="400" />
+                                        
+</div>
