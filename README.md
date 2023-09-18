@@ -65,6 +65,6 @@ Fig 6S.a - GLM & ANCOVA Cognition Associated maps: [AMI](https://htmlpreview.git
 
 
 <div align="center">
-  <img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/art_brain.png" width="400" height="400" />
+  <img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/art_brain.png" width="400" height="380" />
                                         
 </div>
