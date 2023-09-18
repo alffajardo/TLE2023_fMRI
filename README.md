@@ -37,7 +37,8 @@ Fig 6b: [Retention Phase - ANCOVA Cognition Associated regions ](https://htmlpre
 
 
 ---
-### Resting-State seed-based correlation analysis using Working memory (Sternberg's Task) associated ROIs
+
+### RS-SCA of Working memory (Sternberg's Task) associated ROIs
 
 Fig 6c - Significant SCA voxels : [Ipsilateral Hippocampus](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/fig6C/one_sample_stats/I_hipp.html) | 
 [Ipsilateral Supramarginal Gyrus](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/fig6C/one_sample_stats/I_Supp.html) |
