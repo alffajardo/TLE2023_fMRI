@@ -13,7 +13,7 @@ Repository to share code used in  [Fajardo-Valdez & Camacho-Tellez et al. (2022)
 
 # Zstats maps and volumes
 
-In this Section, we provide interactive visualizations of our results in MNI152 Space
+In this Section, we provide interactive visualization of our results in MNI152 Space
 
 ## Main Figures
 
