@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="https://www.roadtrafficsigns.com/img/lg/K/Under-Construction-Sign-K-7181.gif" width="70" height="70" />
+  <img src="https://www.roadtrafficsigns.com/img/lg/K/Under-Construction-Sign-K-7181.gif" width="85" height="85" />
 </div>
 
  <br> 
