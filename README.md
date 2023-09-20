@@ -21,9 +21,36 @@ In this Section, we provide interactive visualization of our results in MNI152 S
 
 1. Table 1: [DMN-TPN template](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/rs-analysis_templates/fc_template_thr.html)
 
-   <img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/blue_red_colormap.png" width="200" height="90" />
+<img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/blue_red_colormap.png" width="200" height="90"/>
 
-2. [Functional Connectivity Matrices](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/rs-analysis_templates/fc_matrices.html)
+ 
+|     | Region of interest (ROI)                                     | Abbreviation | X   | Y   | Z   |
+| --- | ------------------------------------------------------------ | ------------ | --- | --- | --- |
+| 1   | Contrlateral Hippocampus                                     | C.HIPP       | 26  | -16 | -16 |
+| 2   | Ipsilateral Hippocampus                                      | I.HIPP       | -24 | -18 | -16 |
+| 3   | Contrlateral Middle Temporal Gyrus                           | C.MTG        | 62  | -4  | -16 |
+| 4   | Ipsilateral Middle Temporal Gyrus                            | I.MTG        | -62 | -8  | -14 |
+| 5   | Contrlateral Posterior Parietal Lobe                         | C.PPL        | 52  | -60 | 32  |
+| 6   | Ipsilateral Posterior Parietal Lobe                          | I.PPL        | -50 | -66 | 34  |
+| 7   | Posterior Cingulate Cortex                                   | PCC          | -8  | -56 | 26  |
+| 8   | VentroMedial Prefrontal Cortex                               | VmPFC        | 0   | 54  | -6  |
+| 9   | Ipsilateral Middle Temporal Gyrus (Temporal-Occipital part)  | I.MTG-to     | -56 | -62 | 0   |
+| 10  | Contrlateral Middle Temporal Gyrus (Temporal-Occipital part) | C.MTG-to     | 60  | -54 | -4  |
+| 11  | Ipsilateral Precentral Gyrus                                 | I.PrG        | -28 | -6  | 52  |
+| 12  | Ipsilateral Parieto-Occipital Sulcus                         | I.POS        | -18 | -70 | 50  |
+| 13  | Contrlateral Parieto-Occipital Sulcus                        | C.POS        | 18  | -70 | 54  |
+| 14  | Paracingulate Gyrus                                          | PCG          | 4   | 12  | 52  |
+| 15  | Ipsilateral Insula                                           | I.INS        | -32 | 16  | 8   |
+| 16  | Contrlateral Insula                                          | C.INS        | 34  | 18  | 6   |
+| 17  | Ipsilateral Frontal Pole                                     | I.FP         | -38 | 42  | 34  |
+| 18  | Contrlateral Frontal Pole                                    | C.FP         | 38  | 46  | 30  |
+| 19  | Contrlateral Precuneus                                       | C.PrC        | 14  | -34 | 44  |
+| 20  | Ipsilateral Supramarginal Gyrus                              | I.SMG        | -62 | -36 | 38  |
+| 21  | Contrlateral Supramarginal Gyrus                             | C.SMG        | 62  | -32 | 42  |
+
+
+
+3. [Functional Connectivity Matrices](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/rs-analysis_templates/fc_matrices.html)
 
    <img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/rs-analysis_templates/example_fc_mat.png" width="400" height="400" />
 
