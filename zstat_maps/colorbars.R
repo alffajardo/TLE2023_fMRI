@@ -97,23 +97,27 @@ png("RS-colorbars.png",width = 571,height = 578,units = "px",
     antialias = "subpixel")
 par(mfrow =c (4,1),bg ="black",col.main = "white")
 barplot(rep(1,255),rep(1,255),col = red_yellow(255),
-        border = red_yellow(255), main ="Positive FC",axes = F)
+        border = red_yellow(255), main ="Positive FC",axes = F,
+        cex.main  = 2)
 
 barplot(rep(1,255),rep(1,255),col = blue_lightblue(255),
-        border = blue_lightblue(255), main ="Negative FC",axes = F)
+        border = blue_lightblue(255), main ="Negative FC",
+        axes = F,cex.main  = 2)
 
 
 copper2 <- t(copper*255) %>%
            rgb2col()
 
 barplot(rep(1,255),rep(1,255),col = copper2,
-        border = copper2, main ="CONTROL > TLE",axes = F)
+        border = copper2, main ="CONTROL > TLE",
+        axes = F,cex.main  = 2)
 
 
 winter <- t(winter_colors*255) %>%
   rgb2col()
 barplot(rep(1,255),rep(1,255),col = winter,
-        border = winter, main ="TLE > CONTROL",axes = F)
+        border = winter, main ="TLE > CONTROL",axes = F, 
+        cex.main  = 2)
 
 dev.off()
 
