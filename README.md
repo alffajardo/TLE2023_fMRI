@@ -71,7 +71,8 @@ In this Section, we provide interactive visualizations of our results in MNI152 
 
 ### RS-SCA of Working memory (Sternberg's Task) associated ROIs
 
-#### 1. Fig 6c - Significant SCA voxels : [Ipsilateral Hippocampus](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/fig6C/one_sample_stats/I_hipp.html) | 
+#### 1. Fig 6c - Significant SCA voxels : 
+[Ipsilateral Hippocampus](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/fig6C/one_sample_stats/I_hipp.html) | 
 [Ipsilateral Supramarginal Gyrus](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/fig6C/one_sample_stats/I_Supp.html) |
 [Ipsilateral Frontal Pole](https://htmlpreview.github.io/?https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/one_sample_stats/I_FP.html) | 
 [Ipsilateral Insula](https://htmlpreview.github.io/?https://raw.githubusercontent.com/alffajardo/TLE2023_fMRI/main/zstat_maps/fig6C/one_sample_stats/I_INS.html) | 
