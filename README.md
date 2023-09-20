@@ -84,12 +84,9 @@ In this Section, we provide interactive visualizations of our results in MNI152 
 [Ipsilateral Frontal Pole](https://htmlpreview.github.io/?https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/group_stats/I.FP_group.html) |
 [Ipsilateral Insula](https://htmlpreview.github.io/?https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/group_stats/I.INS.html) | 
 [Contralateral Insula](https://htmlpreview.github.io/?https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/group_stats/C.INS_group.html)
-
-<div align="center">
   
- <img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/RS-colorbars.png" width="200" height="300" />
-</div>
-![]()
+ <img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/RS-colorbars.png" width="300" height="250" />
+
 
 ---
 ## Supplementary Figures
