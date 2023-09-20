@@ -24,7 +24,7 @@ In this Section, we provide interactive visualizations of our results in MNI152 
 <img src="https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/blue_red_colormap.png" width="200" height="90"/>
 
  
-| Index | ROI NAME                                   | Abbr     | X   | Y   | Z   |
+| Index | ROI Name                                  | Abbr     | X   | Y   | Z   |
 | ----- | ----------------------------------------------- | -------- | --- | --- | --- |
 | 1     | Ipsilateral Middle Temporal Gyrus (Temporal-Occipital) | I.MTG-TO | -56 | -62 | 0   |
 | 2     | Contralateral Middle Tempora Gyrus (Temporal-Occipital) | C.MTG-TO | 60  | -54 | -4  |
