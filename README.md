@@ -80,7 +80,7 @@ In this Section, we provide interactive visualizations of our results in MNI152 
 
 #### 1. Fig 6c.2 - SCA between-group voxelwise differences:
 [Ipsilateral Hippocampus](https://htmlpreview.github.io/?https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/group_stats/I.hipp_group.html) |
-[Ipsilateral Supramarginal](https://htmlpreview.github.io/?https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/group_stats/I.Supp_group.html) |
+[Ipsilateral Supramarginal Gyrus](https://htmlpreview.github.io/?https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/group_stats/I.Supp_group.html) |
 [Ipsilateral Frontal Pole](https://htmlpreview.github.io/?https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/group_stats/I.FP_group.html) |
 [Ipsilateral Insula](https://htmlpreview.github.io/?https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/group_stats/I.INS.html) | 
 [Contralateral Insula](https://htmlpreview.github.io/?https://github.com/alffajardo/TLE2023_fMRI/blob/main/zstat_maps/fig6C/group_stats/C.INS_group.html)
