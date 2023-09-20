@@ -28,6 +28,8 @@ barplot(rep(1,1000), col = red_yellow(1000),border = red_yellow(1000),
 
 red_blue <- colorRampPalette(colors = c("blue","white","red"))
 
+blue_lightblue <- colorRampPalette(colors = c("blue","cyan","white"))
+
 par(bg = "black",col.main = "white")
 barplot(rep(1,1000), col = red_blue(1000),border = red_blue(1000),
         axes = F, main ="Pearson Coefficient",
@@ -83,3 +85,37 @@ write.table(cbind(seq(0,1,length.out = 10),copper_10),
             quote = F,sep = ",",
             col.names = F,
             row.names = F)
+
+# Time to plot the color bars
+
+
+
+
+#barplot(rep(1,255),rep(1,255)col = b)
+
+png("RS-colorbars.png",width = 571,height = 578,units = "px",
+    antialias = "subpixel")
+par(mfrow =c (4,1),bg ="black",col.main = "white")
+barplot(rep(1,255),rep(1,255),col = red_yellow(255),
+        border = red_yellow(255), main ="Positive FC",axes = F)
+
+barplot(rep(1,255),rep(1,255),col = blue_lightblue(255),
+        border = blue_lightblue(255), main ="Negative FC",axes = F)
+
+
+copper2 <- t(copper*255) %>%
+           rgb2col()
+
+barplot(rep(1,255),rep(1,255),col = copper2,
+        border = copper2, main ="CONTROL > TLE",axes = F)
+
+
+winter <- t(winter_colors*255) %>%
+  rgb2col()
+barplot(rep(1,255),rep(1,255),col = winter,
+        border = winter, main ="TLE > CONTROL",axes = F)
+
+dev.off()
+
+
+
