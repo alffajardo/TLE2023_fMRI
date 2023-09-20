@@ -26,25 +26,25 @@ In this Section, we provide interactive visualizations of our results in MNI152 
  
 | Index | Cluster                                         | Abbr     | X   | Y   | Z   |
 | ----- | ----------------------------------------------- | -------- | --- | --- | --- |
-| 1     | Left Middle Temporal Gyrus (Temporal-Occipital) | L.MTG-TO | -56 | -62 | 0   |
-| 2     | Right Middle Tempora Gyrus (Temporal-Occipital) | R.MTG-TO | 60  | -54 | -4  |
-| 3     | Right Hippocampus                               | R.HIPP   | 26  | -16 | -16 |
-| 4     | Left Precentral Gyrus                           | L.PrG    | -28 | -6  | 52  |
-| 5     | Left Hippocampus                                | L.HIPP   | -24 | -18 | -16 |
-| 6     | Left Superior Parieto-Occipital sulcus          | L.SLOC   | -18 | -70 | 50  |
-| 7     | Right Precuneous                                | R.PRC    | 14  | -34 | 44  |
-| 8     | Right Parieto Occipital sulcus                  | R.SLOC   | 18  | -70 | 54  |
-| 9     | Right Middle Temporal Gyrus                     | R.MTG    | 62  | -4  | -16 |
-| 10    | Left Frontal Pole                               | L.FP     | -38 | 42  | 34  |
+| 1     | Ipsilateral Middle Temporal Gyrus (Temporal-Occipital) | I.MTG-TO | -56 | -62 | 0   |
+| 2     | Contralateral Middle Tempora Gyrus (Temporal-Occipital) | C.MTG-TO | 60  | -54 | -4  |
+| 3     | Contralateral Hippocampus                               | C.HIPP   | 26  | -16 | -16 |
+| 4     | Ipsilateral Precentral Gyrus                           | I.PrG    | -28 | -6  | 52  |
+| 5     | Ipsilateral Hippocampus                                | I.HIPP   | -24 | -18 | -16 |
+| 6     | Ipsilateral Superior Parieto-Occipital sulcus          | I.SLOC   | -18 | -70 | 50  |
+| 7     | Contralateral Precuneous                                | C.PRC    | 14  | -34 | 44  |
+| 8     | Contralateral Parieto Occipital sulcus                  | C.SLOC   | 18  | -70 | 54  |
+| 9     | Contralateral Middle Temporal Gyrus                     | C.MTG    | 62  | -4  | -16 |
+| 10    | Ipsilateral Frontal Pole                               | I.FP     | -38 | 42  | 34  |
 | 11    | Paracingulate Gyrus                             | PCG      | 4   | 12  | 52  |
-| 12    | Right Frontal Pole                              | R.FP     | 38  | 46  | 30  |
-| 13    | Left Middle Temporal Gyrus                      | L.MTG    | -62 | -8  | 14  |
-| 14    | Left Insula                                     | L.INS    | -32 | 16  | 8   |
-| 15    | Right posterior parietal lobe                   | R.PPL    | 52  | -60 | 32  |
-| 16    | Left Supramarginal Gyrus                        | L.SMG    | -62 | -36 | 38  |
-| 17    | Right Supramarginal Gyrus                       | R.SMG    | 62  | -32 | 42  |
-| 18    | Left posterior parietal lobe                    | L.PPL    | -55 | -66 | 34  |
-| 19    | Right Insula                                    | R.INS    | 34  | 18  | 6   |
+| 12    | Contralateral Frontal Pole                              | C.FP     | 38  | 46  | 30  |
+| 13    | Ipsilateral Middle Temporal Gyrus                      | I.MTG    | -62 | -8  | 14  |
+| 14    | Ipsilateral Insula                                     | I.INS    | -32 | 16  | 8   |
+| 15    | Contralateral posterior parietal lobe                   | C.PPL    | 52  | -60 | 32  |
+| 16    | Ipsilateral Supramarginal Gyrus                        | I.SMG    | -62 | -36 | 38  |
+| 17    | Contralateral Supramarginal Gyrus                       | C.SMG    | 62  | -32 | 42  |
+| 18    | Ipsilateral posterior parietal lobe                    | I.PPL    | -55 | -66 | 34  |
+| 19    | Contralateral Insula                                    | C.INS    | 34  | 18  | 6   |
 | 20    | Posterior Cingulate Cortex                      | PCC      | -8  | -56 | 26  |
 | 21    | VentroMedial Prefrontal Cortex                  | VmPFC    | 0   | 54  | -6  |
 
